@@ -1,0 +1,10 @@
+/Library/
+/Logs/
+/UserSettings/
+/[Bb]uild/
+/[Dd]ist/
+*.csproj
+*.sln
+*.slnx
+.vs/
+.vscode/
